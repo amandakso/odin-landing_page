@@ -9,4 +9,5 @@ Skills demonstrated after completing this project:
 * CSS basics
 
 Photo Credit:
-* Photo by <a href="https://unsplash.com/@kerry_hu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kerry Hu</a> on <a href="https://unsplash.com/s/photos/panda-bear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Photo by <a href="https://unsplash.com/@ltmonster?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">shiyang xu</a> on <a href="https://unsplash.com/s/photos/panda-bear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

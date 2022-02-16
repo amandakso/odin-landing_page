@@ -28,6 +28,21 @@ body {
 .rightcontent1 {
     padding: 0 50px;
 }
+.content2 {
+    text-align: center;
+}
+
+.subheading{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin: 32px 0px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
 
 .image {
     width: 300px;
@@ -40,8 +55,11 @@ body {
 }
 
 .info img{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+}
+.info {
+    max-width: 200px;
 }
 
 .links {

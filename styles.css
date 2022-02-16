@@ -39,6 +39,11 @@ body {
     height: auto;
 }
 
+.info img{
+    width: 100px;
+    height: 100px;
+}
+
 .links {
     display: flex;
     gap: 20px;

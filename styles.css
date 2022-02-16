@@ -1,11 +1,25 @@
 
 
-.header{
+.header {
     background-color: #1F2937;
     display: flex;
     align-items: center;
     justify-content: space-between;
 
+}
+
+.container {
+    background-color: #1F2937;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+}
+
+.image img{
+    width: 100%;
+    height: auto;
 }
 
 .links {
@@ -15,6 +29,24 @@
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+}
+.main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 16px;
 }
 
 

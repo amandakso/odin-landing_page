@@ -9,6 +9,9 @@
 }
 body {
     font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
 }
 
 .content1 {
@@ -98,6 +101,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 72px;
 
 }
 .links {
